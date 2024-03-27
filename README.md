@@ -1,1 +1,4 @@
-# chuc-gas-convert-main
+## Installation
+```bash
+npm chuc-gas-convert-main
+```
